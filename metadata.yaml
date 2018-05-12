@@ -1,0 +1,31 @@
+_repo: The-Emancipation-Proclamation_22082
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lincoln, Abraham
+    aliases:
+    - Lincoln, Abe
+    - United States President (1861-1865)
+    birthdate: 1809
+    deathdate: 1865
+    gutenberg_agent_id: '3'
+    url: http://www.gutenberg.org/2009/agents/3
+    wikipedia: http://en.wikipedia.org/wiki/Abraham_Lincoln
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2007-07-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22082'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E456'
+- !lcsh 'United States. President (1861-1865 : Lincoln). Emancipation Proclamation'
+title: The Emancipation Proclamation
+url: http://www.gutenberg.org/ebooks/22082
